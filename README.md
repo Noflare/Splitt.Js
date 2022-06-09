@@ -4,7 +4,7 @@ With Splitt.Js you can split your html page to avoid being lost
 
 # Example
 
-``
+`
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,26 +19,26 @@ With Splitt.Js you can split your html page to avoid being lost
     <script src="./splitt.js"></script>
 </body>
 </html>
-``
+`
 Import html with **<splitt-import dir="*Name of files*"></splitt-import>**
 
 home.html
-``
+`
 <h1 class="welcome">Welcome on Splitt.js</h1>
-``
+`
 home.css
-``
+`
 .welcome {
     font-size: 1.5em;
     font-weight: bold;
     color: rgb(255, 0, 0);
 }
-``
+`
 
-Directory : ``
+Directory : `
 splitt/home/home.html
 splitt/home/home.css
-``
+`
 
 Result :
 
