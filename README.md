@@ -21,7 +21,7 @@ With Splitt.Js you can split your html page to avoid being lost
 </html>
 ```
 
-Import html with **<splitt-import dir="*Name of files*"></splitt-import>**
+Import html with ```html <splitt-import dir="Name of files"></splitt-import>```
 
 home.html
 ```html
